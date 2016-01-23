@@ -5,3 +5,4 @@ what are you 弄啥类！
 public static void main(String[] args){
 
 }
+....diao

@@ -7,3 +7,4 @@ public static void main(String[] args){
 }
 ....diao
 123
+wushan
